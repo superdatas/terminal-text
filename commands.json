@@ -1,5 +1,5 @@
 {
-    "about": "Text",
-    "acerca": "Texto",
+    "about": "<p>Text1</p><p>Text2</p>",
+    "acerca": "<p>Texto1</p><p>Texto2</p>",
     "help": "You can type 'about' or 'acerca' to know more about me in english or spanish"
 }
