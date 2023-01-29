@@ -15,6 +15,18 @@
                 "Additionally, I have experience in innovative projects such as setting up a web with a dns panel on the blockchain, a portal that rents web domains with decentralized extensions on the Handshake blockchain, a Plesk panel on the blockchain and a Wordpress with Plesk panel on the blockchain. My interest in technology was awakened from a young age, and throughout my life I have studied Business Administration and Management and Digital Marketing and Communication to develop a solid foundation in business and marketing.",
                 "Currently, I am the first Spanish person to set up a web with a dns panel on the blockchain and I am focused on continuing to innovate in this field."
             ]
+        },
+        "help": {
+            "text": [
+                "Available commands:",
+                "about - Information about the author"
+            ]
+        },
+        "ayuda": {
+            "text": [
+                "Comandos disponibles:",
+                "acerca - Información sobre el autor"
+            ]
         }
     }
 }
