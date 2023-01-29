@@ -1,0 +1,7 @@
+I am a passionate person about development and new technologies, with great experience in programming languages such as HTML, CSS, PHP, Java, Javascript, C, C++, Swift, Shell, Solidity and tools such as Visual Studio 2019, 2022, Visual Studio Code, Xcode, Github Desktop.
+        
+My professional experience is based on working with VPS, Amazon AWS Servers, Microsoft Azure with Ubuntu and Windows Server, AWS Email and Buckets, and configuring and managing Ubuntu 18.04 and 20.04 LTS, Windows Server Datacenter 2019 and 2022, Static Web with Amazon AWS Route 53 DNS and files on Github, PowerDNS+ Admin, Cockpit, WHCMS, Plesk, phpIPAM, Wordpress and Minecraft Server.
+        
+Additionally, I have experience in innovative projects such as setting up a web with a dns panel on the blockchain, a portal that rents web domains with decentralized extensions on the Handshake blockchain, a Plesk panel on the blockchain and a Wordpress with Plesk panel on the blockchain. My interest in technology was awakened from a young age, and throughout my life I have studied Business Administration and Management and Digital Marketing and Communication to develop a solid foundation in business and marketing.
+        
+Currently, I am the first Spanish person to set up a web with a dns panel on the blockchain and I am focused on continuing to innovate in this field.

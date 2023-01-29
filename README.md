@@ -1,2 +1,2 @@
 # terminal-text
-Terminal Text
+Terminal Text for the web
