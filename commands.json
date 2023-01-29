@@ -27,6 +27,12 @@
                 "Comandos disponibles:",
                 "acerca - Información sobre el autor"
             ]
+        },
+        "": {
+            "text": [
+                "Comandos disponibles:",
+                "acerca - Información sobre el autor"
+            ]
         }
     }
 }
