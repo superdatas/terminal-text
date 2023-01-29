@@ -1,0 +1,49 @@
+{
+    "actions": {
+        "github": {
+            "link": [
+                "https://github.com/miguelgargallo"
+            ]
+        },
+        "twitter": {
+            "link": [
+                "https://twitter.com/miguelgargallo"
+            ]
+        },
+        "linkedin": {
+            "link": [
+                "https://www.linkedin.com/in/miguelgargallo"
+            ]
+        },
+        "email": {
+            "link": [
+                "mailto:it@pylar.org"
+            ]
+        },
+        "website": {
+            "link": [
+                "https://www.miguelgargallo.com"
+            ]
+        },
+        "youtube": {
+            "link": [
+                "https://www.youtube.com/@MiguelGargalloLlamas"
+            ]
+        },
+        "instagram": {
+            "link": [
+                "https://www.instagram.com/miguelgargallo.es"
+            ]
+        },
+        "twitch": {
+            "link": [
+                "https://www.twitch.tv/miguelgargallo/"
+            ]
+        },
+        "blog": {
+            "link": [
+                "https://www.miguelgargallo.com/blog"
+            ]
+        }
+    }
+}
