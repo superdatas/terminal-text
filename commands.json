@@ -19,13 +19,31 @@
         "help": {
             "text": [
                 "Available commands:",
-                "about - Information about the author"
+                "about - Information about me",
+                "github - redirect to github",
+                "twitter - redirect to twitter",
+                "linkedin - redirect to linkedin",
+                "mail - prepare mail to send",
+                "site - redirect to my site",
+                "youtube - redirect to youtube",
+                "instagram - redirect to instagram",
+                "twitch - redirect to twitch",
+                "blog - redirect to my blog"
             ]
         },
         "ayuda": {
             "text": [
                 "Comandos disponibles:",
-                "acerca - Información sobre el autor"
+                "acerca - Información acerca de mi",
+                "github - redirige a github",
+                "twitter - redirige a twitter",
+                "linkedin - redirige a linkedin",
+                "mail - prepara un correo para enviar",
+                "site - redirige a mi sitio web",
+                "youtube - redirige a youtube",
+                "instagram - redirige a instagram",
+                "twitch - redirige a twitch",
+                "blog - redirige a mi blog"
             ]
         }
     }
